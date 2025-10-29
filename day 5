@@ -1,4 +1,4 @@
-[10/29, 9:24 PM] Harishh🤍: #include<stdio.h>
+ #include<stdio.h>
 int main(){
     int a,b;
     scanf("%d%d",&a,&b);
@@ -9,7 +9,7 @@ int main(){
     printf("%d\n",a%b);
     return 0;
 }
-[10/29, 9:24 PM] Harishh🤍: int main() {
+int main() {
     int a, b, temp;
 
     printf("Enter two numbers: ");
@@ -23,9 +23,9 @@ int main(){
 
     printf("After swapping: a = %d, b = %d\n", a, b);
 
-    return 0;
-}
-[10/29, 9:24 PM] Harishh🤍: int main() {
+    return 
+#includ<studio.h>
+ int main() {
     int a, b;
 
     printf("Enter two numbers: ");
@@ -41,7 +41,7 @@ int main(){
 
     return 0;
 }
-[10/29, 9:25 PM] Harishh🤍: #include <stdio.h>
+ #include <stdio.h>
 
 int main() {
     int n, lastDigit, exceptLast;
@@ -57,7 +57,8 @@ int main() {
 
     return 0;
 }
-[10/29, 9:25 PM] Harishh🤍: int main() {
+#include<studio.h>
+ int main() {
     int n, square, cube;
 
     printf("Enter a number: ");
